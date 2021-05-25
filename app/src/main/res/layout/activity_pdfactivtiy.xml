@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <LinearLayout tools:context=".PDFActivtiy"
+    android:background="@drawable/splashscreen"
+    android:orientation="vertical" android:layout_height="match_parent" android:layout_width="match_parent" xmlns:tools="http://schemas.android.com/tools" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView android:layout_height="54dp"
+        android:textStyle="bold" android:layout_width="424dp" android:text="1984" android:id="@+id/book1"/>
+
+    <TextView android:layout_height="58dp" android:textStyle="bold" android:layout_width="match_parent" android:text="Fahrenheit 451" android:id="@+id/book2"/>
+
+    <TextView android:layout_height="52dp" android:textStyle="bold" android:layout_width="match_parent" android:text="Masqarachini Oldurmek" android:id="@+id/book3"/>
+
+    <TextView android:layout_height="52dp" android:textStyle="bold" android:layout_width="match_parent" android:text="The book Thief" android:id="@+id/book4"/>
+
+    <TextView android:layout_height="46dp" android:textStyle="bold" android:layout_width="match_parent" android:text="Pride and perjudice" android:id="@+id/book5"/>
+
+    <TextView android:layout_height="52dp" android:textStyle="bold" android:layout_width="match_parent" android:text="Fellowship of the ring" android:id="@+id/book6"/>
+
+    <TextView android:layout_height="49dp" android:textStyle="bold" android:layout_width="match_parent" android:text="The two towers" android:id="@+id/book7"/>
+
+    <TextView android:layout_height="48dp" android:textStyle="bold" android:layout_width="match_parent" android:text="Lord of the Ring" android:id="@+id/book8"/>
+
+    <TextView android:layout_height="44dp" android:textStyle="bold" android:layout_width="match_parent" android:text="The great Gatsby" android:id="@+id/book9"/>
+
+    <TextView android:layout_height="54dp" android:textStyle="bold" android:layout_width="match_parent" android:text="The hobbit" android:id="@+id/book10"/>
+
+</LinearLayout>
